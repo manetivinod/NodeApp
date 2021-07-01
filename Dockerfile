@@ -2,7 +2,7 @@ nod# use a node base image
 FROM node:7-onbuild
 
 # set maintainer
-LABEL maintainer "manetiviodg@gmail.com"
+LABEL maintainer "manetivinodg@gmail.com"
 
 # set a health check
 HEALTHCHECK --interval=5s \
